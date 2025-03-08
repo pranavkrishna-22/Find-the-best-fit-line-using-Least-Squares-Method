@@ -52,7 +52,7 @@ plt.show()
 ```
 
 ## Output:
-![Uploading image.png…]()
+![image](https://github.com/user-attachments/assets/7969dc17-8861-4e00-8b9a-f2001391e11a)
 
 
 ## Result:
