@@ -52,7 +52,7 @@ plt.show()
 ```
 
 ## Output:
-![best fit line](sam.png)
+![Uploading image.png…]()
 
 
 ## Result:
